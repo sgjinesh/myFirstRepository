@@ -1,0 +1,5 @@
+Hello 
+
+Git bash is really a good tool, which allows Unix commands run in the Windows environment
+
+I am learning UNIX though I have a scheduled call at 7 am CST, just 5 hours to go
