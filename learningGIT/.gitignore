@@ -4,3 +4,4 @@ waste.txt
 *.log
 *.cpp
 ignore/
+../*.bash
