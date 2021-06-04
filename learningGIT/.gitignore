@@ -1,3 +1,6 @@
 waste.txt
 /log/*.log
 /*.log
+*.log
+*.cpp
+ignore/
